@@ -1,2 +1,2 @@
 # ObstacleAssault-Git
-a UE5 game based on finishing obsatcle course
+a UE5 game based on finishing Obstacle course
